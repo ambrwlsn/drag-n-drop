@@ -1,0 +1,46 @@
+/*.main-card {
+  height: 500px;
+  width: 300px;
+  border: 2px solid black;
+  margin: 2em 0 0 2em;
+  display: flex;
+  flex-direction: column;
+}
+
+.inner-card {
+  background: #BAD455;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: 1px auto;
+  height: 98px;
+  width: 300px;
+}
+
+.target-card {
+  background: #000;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: 1px auto;
+  height: 98px;
+  width: 300px;
+}*/
+
+#box_1, #box_2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  border: 1px solid grey;
+  float: left;
+}
+
+#logo {
+  display: flex;
+  height: 50%;
+  width: auto;
+}
